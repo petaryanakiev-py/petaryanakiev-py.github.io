@@ -109,10 +109,11 @@ content:
       - Football
       - Running
       - Reading
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Drone Photography
+      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      Look at this cool drone image from the French Riviera
+      ![French Riviera](/images/DJI_0083.JPG "French Riviera")
 
 # Footer
 footer_show_references: true
