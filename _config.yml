@@ -9,7 +9,7 @@ version: 2
 name: Petar Yanakiev
 title: iOS App Developer 
 email: petaryanakiev.py@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,11 +48,11 @@ linkedin_username: petaryanakiev-py
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Petar and I'm an iOS app developer. Beyond shipping apps, I'm passionate about software engineering as a whole — the quiet, focused problem-solving that turns ideas into products people actually enjoy using.
+  Hi, my name's Petar and I'm an iOS app developer. Beyond shipping apps, I'm passionate about software engineering as a whole - the quiet, focused problem-solving that turns ideas into products people actually enjoy using.
 
-  I love following Apple events, and <mark>WWDC</mark> is easily the highlight of my year — every session feels like a peek at where the platform is headed next.
+  I love following Apple events, and <mark>WWDC</mark> is easily the highlight of my year - every session feels like a peek at where the platform is headed next.
 
-  My favourite problems are architectural ones, but I work hard to keep solutions as simple as they can be. I take pride in crafting intuitive, thoughtfully designed app experiences in the <mark>Apple</mark> tradition — interfaces that feel effortless and stay out of the user's way.
+  My favourite problems are architectural ones, but I work hard to keep solutions as simple as they can be. I take pride in crafting intuitive, thoughtfully designed app experiences in the <mark>Apple</mark> tradition - interfaces that feel effortless and stay out of the user's way.
 
 content:
   - title: Projects # Title for the section
