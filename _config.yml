@@ -48,9 +48,11 @@ linkedin_username: petaryanakiev-py
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Petar and I'm a an iOS app developer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Petar and I'm an iOS app developer. Beyond shipping apps, I'm passionate about software engineering as a whole — the quiet, focused problem-solving that turns ideas into products people actually enjoy using.
 
-  I am most skilled in: <mark>Swift</mark> and <mark>Eating Pizza</mark>
+  I love following Apple events, and <mark>WWDC</mark> is easily the highlight of my year — every session feels like a peek at where the platform (and our craft) is headed next.
+
+  My favourite problems are architectural ones, but I work hard to keep solutions as simple as they can be. My motto is <mark>quality over quantity</mark>: I see software development as a craft, and every codebase as a representation of its author's creativity.
 
 content:
   - title: Projects # Title for the section
