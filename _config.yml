@@ -105,13 +105,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Football
-      - Running
-      - Reading
-      - Drone Photography
+      Alongside my interests in Swift and mobile apps some of my other interests and hobbies are:
+      - Football ⚽️
+      - Running 🏃
+      - Reading 📖
+      - Drone Photography 📸
 
-      Look at this cool drone image from the French Riviera.
+      Look at this cool drone image I took at the French Riviera.
 
       ![French Riviera](/images/DJI_0083.JPG "French Riviera")
 
