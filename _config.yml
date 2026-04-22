@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Petar Yanakiev
-title: iOS App Developer
+title: iOS App Developer 
 email: petaryanakiev.py@gmail.com
 website: www.github.com/sproogen/resume-theme
 
@@ -15,14 +15,14 @@ website: www.github.com/sproogen/resume-theme
 darkmode: false
 
 # Social links
-twitter_username: facespics
+# twitter_username: facespics
 github_username:  petaryanakiev-py
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: petaryanakiev-py
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -30,10 +30,10 @@ linkedin_username: jameswgrant
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Petar and I'm a an iOS app developer. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Swift</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -104,9 +104,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      - Football
+      - Running
+      - Reading
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
