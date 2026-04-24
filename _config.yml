@@ -87,10 +87,10 @@ content:
         sub_title: iOS Developer
         caption: March 2024 - Present
         description: | # this will include new lines to allow paragraphs
-            - Developed and maintained a complex, active trading iOS application for the banking sector, including real-time data via <mark>WebSockets</mark>. 
-            - Tackled difficult problems, including performance issues, memory leaks, and concurrency faults.
-            - Implemented intuitive native designs in conformance with Apple's Human Interface Guidelines using <mark>SwiftUI</mark>.
-            - Led an initiative for <mark>SPM</mark> modularization of the project and made it to production code.
+            Developed and maintained a complex, active trading iOS application for the banking sector, including real-time data via <mark>WebSockets</mark>. 
+            Tackled difficult problems, including performance issues, memory leaks, and concurrency faults.
+            Implemented intuitive native designs in conformance with Apple's Human Interface Guidelines using <mark>SwiftUI</mark>.
+            Led an initiative for <mark>SPM</mark> modularization of the project and made it to production code.
 
       - layout: left
         title: Paysafe
@@ -99,12 +99,12 @@ content:
         sub_title: iOS Developer
         caption: September 2020 - October 2023
         description: | # this will include new lines to allow paragraphs
-            - Developed and maintained iOS applications for financing, sending money, and crypto trading.
-            - Collaborated with cross-functional teams including designers and backend engineers to deliver high-quality apps.
-            - Implemented user interface designs, application logic, and data persistence using <mark>Swift</mark> and <mark>UIKit</mark>.
-            - Integrated RESTful APIs for data retrieval and synchronization with server-side systems.
-            - Conducted testing, debugging, and performance optimizations to ensure app stability and responsiveness.
-            - Collaborated in code reviews to maintain code quality and ensure adherence to best practices.
+            Developed and maintained iOS applications for financing, sending money, and crypto trading.
+            Collaborated with cross-functional teams including designers and backend engineers to deliver high-quality apps.
+            Implemented user interface designs, application logic, and data persistence using <mark>Swift</mark> and <mark>UIKit</mark>.
+            Integrated RESTful APIs for data retrieval and synchronization with server-side systems.
+            Conducted testing, debugging, and performance optimizations to ensure app stability and responsiveness.
+            Collaborated in code reviews to maintain code quality and ensure adherence to best practices.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
