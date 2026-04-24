@@ -9,6 +9,7 @@ version: 2
 name: Petar Yanakiev
 title: iOS App Developer 
 email: petaryanakiev.py@gmail.com
+phone: +359887097927
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -54,13 +55,15 @@ about_content: | # this will include new lines to allow paragraphs
 
   My favourite problems are architectural ones, but I work hard to keep solutions as simple as they can be.
 
+  In my free time, I co-organize iOS talks as part of Xcoders meetup in Sofia.
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Days Since
+        link: https://apps.apple.com/bg/app/days-since-quit-habit-tracker/id1445348921
         # link_text: Project Website
         additional_links:
           - title:  Days Dince
@@ -69,9 +72,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably the best habit-quitting iOS app out there in the App Store.
+          Days Since is probably the best habit-quitting iOS app out there in the App Store.
         description: | # this will include new lines to allow paragraphs
-          This app was started by a group of friends having an idea of motivating people to quit bad habits. That easily grabbed my interest, and when they suggested me to join their team, that was absolutely a no-brainer for me.
+          This app was started by a group of friends having an idea of motivating people to quit bad habits. That easily grabbed my interest, and when they suggested me to join their team as part-time developer, that was absolutely a no-brainer for me.
           I am developing features for the app in my free time. Working on it helps me understand the whole process of developing and shipping an app to production. I thought it was simple, but with Days Dince I changed my mind.
 
   - title: Experience # Title for the section
@@ -84,12 +87,10 @@ content:
         sub_title: iOS Developer
         caption: March 2024 - Present
         description: | # this will include new lines to allow paragraphs
-            Developed and maintained a complex, active trading iOS application for the banking sector, including real-time data via WebSockets. 
-            Tackled difficult problems, including performance issues, memory leaks, and concurrency faults.
-            
-            Implemented intuitive native designs in conformance with Apple's Human Interface Guidelines.
-            
-            Led an initiative for modularization of the project and made it to production code.
+            - Developed and maintained a complex, active trading iOS application for the banking sector, including real-time data via <mark>WebSockets</mark>. 
+            - Tackled difficult problems, including performance issues, memory leaks, and concurrency faults.
+            - Implemented intuitive native designs in conformance with Apple's Human Interface Guidelines using <mark>SwiftUI</mark>.
+            - Led an initiative for <mark>SPM</mark> modularization of the project and made it to production code.
 
       - layout: left
         title: Paysafe
@@ -98,12 +99,12 @@ content:
         sub_title: iOS Developer
         caption: September 2020 - October 2023
         description: | # this will include new lines to allow paragraphs
-            Developed and maintained iOS applications for financing, sending money, and crypto trading.
-            Collaborated with cross-functional teams including designers and backend engineers to deliver high-quality apps.
-            Implemented user interface designs, application logic, and data persistence using Swift and UIKit.
-            Integrated RESTful APIs for data retrieval and synchronization with server-side systems.
-            Conducted testing, debugging, and performance optimizations to ensure app stability and responsiveness.
-            Collaborated in code reviews to maintain code quality and ensure adherence to best practices.
+            - Developed and maintained iOS applications for financing, sending money, and crypto trading.
+            - Collaborated with cross-functional teams including designers and backend engineers to deliver high-quality apps.
+            - Implemented user interface designs, application logic, and data persistence using <mark>Swift</mark> and <mark>UIKit</mark>.
+            - Integrated RESTful APIs for data retrieval and synchronization with server-side systems.
+            - Conducted testing, debugging, and performance optimizations to ensure app stability and responsiveness.
+            - Collaborated in code reviews to maintain code quality and ensure adherence to best practices.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
