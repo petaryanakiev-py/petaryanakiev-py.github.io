@@ -55,8 +55,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   My favourite problems are architectural ones, but I work hard to keep solutions as simple as they can be.
 
-  In my free time, I co-organize iOS talks as part of Xcoders meetup in Sofia.
-
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -71,11 +69,10 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Days Since is probably the best habit-quitting iOS app out there in the App Store.
+        # quote: >
+        #   Days Since is probably the best habit-quitting iOS app out there in the App Store.
         description: | # this will include new lines to allow paragraphs
-          This app was started by a group of friends having an idea of motivating people to quit bad habits. That easily grabbed my interest, and when they suggested me to join their team as part-time developer, that was absolutely a no-brainer for me.
-          I am developing features for the app in my free time. Working on it helps me understand the whole process of developing and shipping an app to production. I thought it was simple, but with Days Dince I changed my mind.
+          Joined the development team of Days Since, a habit-tracking and self-improvement app focused on helping users quit bad habits and build better routines. Contributing as a part-time iOS developer, I work on feature development, bug fixing, and production-ready releases. This project has given me hands-on experience with the full app lifecycle, including development, testing, deployment, and maintaining a production application.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -131,7 +128,7 @@ content:
       - Drone Photography 📸
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
